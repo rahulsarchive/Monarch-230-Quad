@@ -6,11 +6,20 @@ The best way to do that is by keeping the props in a protected cage. I'm not the
 
 ![Lumenier Danaus](https://user-images.githubusercontent.com/32607702/36538000-e438bd04-17f7-11e8-8b94-3f6a631cde2a.jpg)
 
-So I set about to design something similar, enter the Monarch (like the butterfly)
+Taking inspiration from the Danaus, I set about to design something similar. Enter the Monarch (like the butterfly)
 
 ![monarch](https://user-images.githubusercontent.com/32607702/36538112-4a758840-17f8-11e8-919b-ef9673d4ddc9.jpeg)
 
-Designed using Rhino CAD and made ready for fabrication.
+Spec
+4X Racestar 2204 racing edition motors  
+4X BL-Heli 28A ESC  
+1X Mateck power distribution board  
+1X SP racing F3 flight controller  
+4X Kingkong 5040 props  
+Frsky TH9X radio with 8Ch receiver  
+3800mah 25C lipo battery  
+
+Designed using Rhino CAD, its a 230 size quad with ample space for all the electronics including a camera and VTX. Desigined in 2D as I'll be laser cutting the frame.
 
 ![monarch](https://user-images.githubusercontent.com/32607702/36538106-4942fd5e-17f8-11e8-913d-8cbc4152a469.jpg)
 
@@ -44,14 +53,7 @@ I attached a 3800mah battery on top of the drone using zipties.
 
 ![monarchfinal](https://user-images.githubusercontent.com/32607702/36538107-498203be-17f8-11e8-95a9-34891e7c5885.jpeg)
 
-Spec
-4X Racestar 2204 racing edition motors
-4X BL-Heli 28A ESC
-1X Mateck power distribution board
-1X SP racing flight controller
-4X Kingkong 5040 props
-Frsky TH9X radio with 8Ch receiver
-3800mah 25C lipo battery
 
-The AUW of the drone is about 750 with the 3800mah battery. I have not yet added a camera and vtx to it, I plan to do it once the drone is properly setup.
+
+The AUW of the drone is about 750g with the 3800mah battery. I have not yet added a camera and vtx to it, I plan to do it once the drone is properly setup.
 
