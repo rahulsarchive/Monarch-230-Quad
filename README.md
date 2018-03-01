@@ -38,10 +38,8 @@ I added a simple foam landing gear to the quad to protect it in the case of a ro
 
 ![monarchland](https://user-images.githubusercontent.com/32607702/36538110-49f956b2-17f8-11e8-8796-05c5098dc207.jpeg)
 
-I attached a 3800mah battery on top of the drone using zipties.
+I attached a 3800mah battery on top of the drone using zipties. Finally, she's ready for the maiden flight. The AUW of the drone is about 750g with the 3800mah battery. I have not yet added a camera and vtx to it, I plan to do it once the drone is properly setup.
 
-![monarchfinal](https://user-images.githubusercontent.com/32607702/36538107-498203be-17f8-11e8-95a9-34891e7c5885.jpeg)
-Finally, she's ready for the maiden flight. The AUW of the drone is about 750g with the 3800mah battery. I have not yet added a camera and vtx to it, I plan to do it once the drone is properly setup.
 ![monarch](https://user-images.githubusercontent.com/32607702/36538112-4a758840-17f8-11e8-919b-ef9673d4ddc9.jpeg)
 
 Spec
