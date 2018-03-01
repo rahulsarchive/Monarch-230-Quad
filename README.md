@@ -53,4 +53,7 @@ Frsky TH9X radio with 8Ch receiver
 
 
 
+![lisence](https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png)
+**Creative Commons — Attribution-NonCommercial-ShareAlike 4.0**
+
 
